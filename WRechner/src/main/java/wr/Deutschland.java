@@ -6,7 +6,7 @@ public class Deutschland extends Land
 	public Deutschland()
 	{
 		name = "Deutschland";
-		kuerzel = "DE";
+		kuerzel = "DEU";
 		kontinent = "Europa";
 	}
 }
