@@ -17,6 +17,6 @@ public class TestDeutschland
 	@Test
 	public void test()
 	{
-		assertEquals("Deutschland1", land.getName());
+		assertEquals("Deutschland2", land.getName());
 	}
 }
